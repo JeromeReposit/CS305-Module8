@@ -24,6 +24,6 @@ To make certain the code and software applications were functional and secure yo
 
 Several resources, tools, and coding practices proved to be helpful for me in my assignments and tasks. The IDE eclipse paired with the maven project provided me with simple and functional project management. Resources such as using the internet to identify any questions that I had regarding coding or assignment rules helped in this manner.
 
-#Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+# Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 
 What I might show to future employers regarding this assignment and the skills, knowledge, and experience that I accumulated would be my ability to adhere to client needs, identify areas of security, conduct tests, and interpret results. 
